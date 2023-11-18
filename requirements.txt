@@ -1,0 +1,4 @@
+Flask
+SQlAlchemy
+Flask-SQlAlchemy
+pytest
